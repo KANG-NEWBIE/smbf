@@ -7,7 +7,7 @@ apt-get update -y && apt-get upgrade -y
 apt-get install git -y
 apt-get install python -y
 git clone https://github.com/asmin-dev/smbf
-cd facebook-cracker
+cd smbf
 pip install requests bs4 cython
 python install.py
 python mbf.py
