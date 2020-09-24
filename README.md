@@ -1,5 +1,5 @@
 # FACEBOOK CRACKER
-![FACEBOOK CRACKER](https://github.com/zettamus/facebook-cracker/blob/master/mbf.jpg?raw=true)
+![FACEBOOK CRACKER](https://github.com/asmin-dev/smbf/blob/master/mbf.jpg?raw=true)
 ## How to install
 
 ```
