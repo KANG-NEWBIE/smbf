@@ -7,11 +7,11 @@ os.system('cythonize -i lib/* /dev/null 2>&1 ')
 
 print("\n\n\n[!] removing files C extensions")
 try:
-    os.system("rm usr/*.c")
+    os.system("rm usur/*.c")
 except Exception:
     pass
 try:
-    os.system("rm lib/*.c")
+    os.system("rm libu/*.c")
 except Exception:
     pass
 
